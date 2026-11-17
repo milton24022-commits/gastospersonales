@@ -1,0 +1,6 @@
+{
+  "appId": "cl.milton.gastos",
+  "appName": "Cuaderno de Gastos",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
